@@ -1,0 +1,19 @@
+book-alya/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── bookalya/
+│       │           ├── BookAlyaApplication.java
+│       │           ├── controller/
+│       │           │   ├── UserController.java
+│       │           │   └── BookController.java
+│       │           ├── model/
+│       │           │   ├── User.java
+│       │           │   └── Book.java
+│       │           └── repository/
+│       │               ├── UserRepository.java
+│       │               └── BookRepository.java
+│       └── resources/
+│           ├── application.properties
+├── pom.xml
